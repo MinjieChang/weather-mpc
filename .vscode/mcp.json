@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "weather-mcp-server-stdio": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["${workspaceFolder}/dist/index.js"]
+    }
+    // "weather-mcp-server-streamable-http": {
+    //   "type": "http",
+    //   "url": "http://localhost:3088/mcp"
+    // },
+  }
+}
