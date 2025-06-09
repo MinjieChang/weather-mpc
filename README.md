@@ -4,8 +4,8 @@
 
 ### 方式一：
 
-该项目使用 generate-mpc 脚手架生成，项目中附带有.vscode/launch.json 文件，调试该 mpc 服务可以使用 fn+f5 的方式，启动 **@modelcontextprotocol/inspector** 服务
-[yo generate-mpc](https://zhuanlan.zhihu.com/p/32199994850)
+该项目使用 generator-mpc 脚手架生成，项目中附带有.vscode/launch.json 文件，调试该 mpc 服务可以使用 fn+f5 的方式，启动 **@modelcontextprotocol/inspector** 服务
+[yo generator-mpc](https://zhuanlan.zhihu.com/p/32199994850)
 
 ### 方式二：
 
